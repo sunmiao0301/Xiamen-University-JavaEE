@@ -42,7 +42,7 @@
       <module name="restfuldemoredis" target="1.8" />
       <module name="rocketmq_openfeign" target="11" />
       <module name="rocketmqdemo" target="1.8" />
-      <module name="Servlet_Maven" target="11" />
+      <module name="Servlet_Maven" target="1.8" />
       <module name="testnetty" target="11" />
       <module name="testtomcat" target="11" />
       <module name="webfluxdemo" target="11" />

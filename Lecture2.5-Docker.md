@@ -27,3 +27,8 @@ Docker容器：运行和隔离应用的沙箱
 一个Dockerfile例子
 
 ![image-20221228183246953](https://raw.githubusercontent.com/sunmiao0301/Public-Pic-Bed/main/imgfromPicGO/202212281832051.png)
+
+----
+
+Docker容器之间如何通讯？—— Swarm集群
+

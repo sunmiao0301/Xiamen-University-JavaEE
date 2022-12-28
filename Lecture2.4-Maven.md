@@ -56,3 +56,13 @@ POM支持父子关系，POM的意义是定义一个工程中所有的依赖，�
 Maven和IDEA运行项目对比：（14分钟开始）
 
 https://www.bilibili.com/video/BV1t24y1o7Vi?p=4&vd_source=ab70a9e722c9b39daeacc07aeafe96d2
+
+p.s. 为了成功运行，pom文件中的maven-compiler-plugin版本需要与jdk版本对应，我没有使用老师的jdk11，而是改成了1.8，然后删除.m2重新下载，并在File - Project Structure - SDK中切换到jdk1.8，然后重新打开项目，等待依赖下载完毕后就完成了。
+
+![image-20221228192735482](https://raw.githubusercontent.com/sunmiao0301/Public-Pic-Bed/main/imgfromPicGO/202212281927531.png)
+
+![image-20221228192802702](https://raw.githubusercontent.com/sunmiao0301/Public-Pic-Bed/main/imgfromPicGO/202212281928733.png)
+
+但是由于版本问题，response的结果看不到，但是不影响，意思已经对了。
+
+![image-20221228192906038](https://raw.githubusercontent.com/sunmiao0301/Public-Pic-Bed/main/imgfromPicGO/202212281929090.png)
