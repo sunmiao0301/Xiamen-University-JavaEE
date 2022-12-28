@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/2.Preliminary/Servlet_Maven" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/2.Preliminary/Servlet_Maven/pom.xml" />
+        <option value="$PROJECT_DIR$/5.MyBatis/goodsdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/13.WebFlux/TestNetty/pom.xml" />
+        <option value="$PROJECT_DIR$/13.WebFlux/WebFluxDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/11.RocketMQ/RocketMQDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/4.SpringMVC/RestFulDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/7.SpringAOP/goodsdemoaop/pom.xml" />
+        <option value="$PROJECT_DIR$/8.SpringTest/Payment/pom.xml" />
+        <option value="$PROJECT_DIR$/8.SpringTest/TestTomcat/pom.xml" />
+        <option value="$PROJECT_DIR$/8.SpringTest/GoodsDemoTest/pom.xml" />
+        <option value="$PROJECT_DIR$/8.SpringTest/RestFulDemoTest/pom.xml" />
+        <option value="$PROJECT_DIR$/9.Redis-Cache/RestFulDemoRedis/pom.xml" />
+        <option value="$PROJECT_DIR$/12.SpringCloud/RocketMQ_Openfeign/pom.xml" />
+        <option value="$PROJECT_DIR$/3.SpringFrameWork/AdminUI/pom.xml" />
+        <option value="$PROJECT_DIR$/3.SpringFrameWork/autowiredemo/pom.xml" />
+        <option value="$PROJECT_DIR$/3.SpringFrameWork/beanlifecycle/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

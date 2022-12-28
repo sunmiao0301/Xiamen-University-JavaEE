@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/11.RocketMQ/RocketMQDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12.SpringCloud/RocketMQ_Openfeign/consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12.SpringCloud/RocketMQ_Openfeign/consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12.SpringCloud/RocketMQ_Openfeign/goodsservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12.SpringCloud/RocketMQ_Openfeign/producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12.SpringCloud/RocketMQ_Openfeign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12.SpringCloud/RocketMQ_Openfeign/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13.WebFlux/TestNetty/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13.WebFlux/WebFluxDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2.Preliminary/Servlet_Maven/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2.Preliminary/Servlet_Maven/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3.SpringFrameWork/AdminUI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3.SpringFrameWork/autowiredemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3.SpringFrameWork/autowiredemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3.SpringFrameWork/beanlifecycle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4.SpringMVC/RestFulDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4.SpringMVC/RestFulDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5.MyBatis/goodsdemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5.MyBatis/goodsdemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.SpringAOP/goodsdemoaop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.SpringAOP/goodsdemoaop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8.SpringTest/GoodsDemoTest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8.SpringTest/Payment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8.SpringTest/Payment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8.SpringTest/RestFulDemoTest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8.SpringTest/RestFulDemoTest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8.SpringTest/TestTomcat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9.Redis-Cache/RestFulDemoRedis/src/main/java" charset="UTF-8" />
+  </component>
+</project>

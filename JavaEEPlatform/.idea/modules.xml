@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaEEPlatform.iml" filepath="$PROJECT_DIR$/.idea/JavaEEPlatform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.Preliminary/Servlet_Maven/Servlet_Maven.iml" filepath="$PROJECT_DIR$/2.Preliminary/Servlet_Maven/Servlet_Maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.SpringFrameWork/AdminUI/adminui.iml" filepath="$PROJECT_DIR$/3.SpringFrameWork/AdminUI/adminui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.SpringFrameWork/autowiredemo/autowiredemo.iml" filepath="$PROJECT_DIR$/3.SpringFrameWork/autowiredemo/autowiredemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.SpringFrameWork/beanlifecycle/beanlifecycle.iml" filepath="$PROJECT_DIR$/3.SpringFrameWork/beanlifecycle/beanlifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.SpringCloud/RocketMQ_Openfeign/consumer/consumer.iml" filepath="$PROJECT_DIR$/12.SpringCloud/RocketMQ_Openfeign/consumer/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.MyBatis/goodsdemo/goodsdemo.iml" filepath="$PROJECT_DIR$/5.MyBatis/goodsdemo/goodsdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.SpringTest/GoodsDemoTest/goodsdemo (1).iml" filepath="$PROJECT_DIR$/8.SpringTest/GoodsDemoTest/goodsdemo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.SpringAOP/goodsdemoaop/goodsdemoaop.iml" filepath="$PROJECT_DIR$/7.SpringAOP/goodsdemoaop/goodsdemoaop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.SpringCloud/RocketMQ_Openfeign/goodsservice/goodsservice.iml" filepath="$PROJECT_DIR$/12.SpringCloud/RocketMQ_Openfeign/goodsservice/goodsservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.SpringTest/Payment/payment.iml" filepath="$PROJECT_DIR$/8.SpringTest/Payment/payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.SpringCloud/RocketMQ_Openfeign/producer/producer.iml" filepath="$PROJECT_DIR$/12.SpringCloud/RocketMQ_Openfeign/producer/producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.SpringMVC/RestFulDemo/restfuldemo.iml" filepath="$PROJECT_DIR$/4.SpringMVC/RestFulDemo/restfuldemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.SpringTest/RestFulDemoTest/restfuldemo (1).iml" filepath="$PROJECT_DIR$/8.SpringTest/RestFulDemoTest/restfuldemo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.Redis-Cache/RestFulDemoRedis/restfuldemoredis.iml" filepath="$PROJECT_DIR$/9.Redis-Cache/RestFulDemoRedis/restfuldemoredis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.SpringCloud/RocketMQ_Openfeign/rocketmq_openfeign.iml" filepath="$PROJECT_DIR$/12.SpringCloud/RocketMQ_Openfeign/rocketmq_openfeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.RocketMQ/RocketMQDemo/rocketmqdemo.iml" filepath="$PROJECT_DIR$/11.RocketMQ/RocketMQDemo/rocketmqdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.WebFlux/TestNetty/testnetty.iml" filepath="$PROJECT_DIR$/13.WebFlux/TestNetty/testnetty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.SpringTest/TestTomcat/testtomcat.iml" filepath="$PROJECT_DIR$/8.SpringTest/TestTomcat/testtomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.WebFlux/WebFluxDemo/webfluxdemo.iml" filepath="$PROJECT_DIR$/13.WebFlux/WebFluxDemo/webfluxdemo.iml" />
+    </modules>
+  </component>
+</project>
